@@ -1,0 +1,2 @@
+C:/Users/gauta/OneDrive/Documents/Flutter Projects/Meals_App/android/app/.cxx/RelWithDebInfo/6ms405r3/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/gauta/OneDrive/Documents/Flutter Projects/Meals_App/android/app/.cxx/RelWithDebInfo/6ms405r3/x86_64/CMakeFiles/rebuild_cache.dir
